@@ -1,3 +1,4 @@
 fastapi
-google-cloud-storage
 uvicorn
+google-cloud-storage
+google-cloud-texttospeech
